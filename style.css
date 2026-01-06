@@ -50,7 +50,7 @@ select{
     background-color: purple;
     color: white;
     border: none;
-    border-radius: 50px;
+    border-radius: 10px;
     padding: 14px 24px;
     width: 150px;
     font-size: 16px;
@@ -64,4 +64,19 @@ select{
 footer{
     font-size: 14px;
     margin-top: 10px;
+}
+
+.calendar-heading{
+    color: darkorange;
+    font-size: 60px;
+    padding: 60px;
+}
+
+.calendar-container{
+
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding: 50px 20px;
+    background-image: url("https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxIdKQCW6GmTKj6oK68_ue6H0jJPH0YsK1XV8w3zsR1S3wxwkqlQWaROrHwaWW84pSUrHHtaUepvRxVVX0cSJLxbr5H1aTEgfUf7o-5F1qe5eb8k82gfsRomebE4kLGObjM-goY=s1360-w1360-h1020-rw");
 }
